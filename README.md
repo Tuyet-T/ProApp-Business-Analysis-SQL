@@ -6,7 +6,7 @@ The ProApp database manages user registrations, task assignments, service reques
 
 Database Design using SQL
 
-The database includes functional tables for customers, taskers, services, requests, tasks, bids and 1 associative table is requests. Relationships are modeled in a Chen’s notation ER diagram.
+The database includes functional tables for customers, taskers, services, tasks, bids and 1 associative table is requests. Relationships are modeled in a Chen’s notation ER diagram.
 
 Key Features
 
